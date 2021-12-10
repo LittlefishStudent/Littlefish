@@ -6,10 +6,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=LittlefishStudent&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af%22%20width=%22400px%22" />
 </a>
 
-- 🎮 I'm FPS gamers, i often play the game is `CSGO` and `RainbowSix:Siege`
-- 📡 I'm noob HAM, my call sign is `BG5ISN`
-- 💻 My profession is system integration engineer
-- 📺 My hobby is anime and pure music
+
 - 👨‍💻 I’m currently working on nlp.
 - 📊 I’m currently learning Data Analysis and Mining and knowledg graph.
 - 👯 I’m looking to collaborate on algorithm competition.
