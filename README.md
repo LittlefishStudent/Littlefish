@@ -27,7 +27,7 @@
 [![](https://img.shields.io/badge/Steam-0A4065?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/nuanyang)
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/499350764)
 [![](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://ilfishs.com)
-[![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuwencheng@88.com)
+[![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:littlefish@88.com)
 [![](https://img.shields.io/badge/QQ-faaf08?style=flat-square&logo=tencent-qq&logoColor=000000)](http://wpa.qq.com/msgrd?v=3&uin=786153730&site=qq&menu=yes)
 [![](https://img.shields.io/badge/-Telegram-444?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nuanyang)
 
