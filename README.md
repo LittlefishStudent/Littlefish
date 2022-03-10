@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on algorithm competition.
 - 💁 I’m looking for help
 - 💬 Ask me about web crawler in python.
-- 📧 How to reach me: yuwencheng@88.com
+- 📧 How to reach me: littlefish@88.com
 - ✨ Fun fact: 知名白日做梦研究员兼职社会主义接班人
 - ✨ 如果有相见的人，就不再是孤单一人了！
 
